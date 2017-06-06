@@ -1,3 +1,0 @@
-Powered by StreetViewConverter v1.7.20 from https://www.assetstore.unity3d.com/en/#!/content/28512
-Support: sss1024@gmail.com 
-https://www.google.nl/maps/place/London+Eye/@51.503292,-0.1192254,3a,75y,123.78h,99.62t/data=!3m8!1e1!3m6!1s-GxIbF0W-brI%2FWP4g6EC74FI%2FAAAAAAAAKX8%2FU-DbSLNiQacwpR5zJ4GelZwkMffTgUyywCLIB!2e4!3e11!6s%2F%2Flh4.googleusercontent.com%2F-GxIbF0W-brI%2FWP4g6EC74FI%2FAAAAAAAAKX8%2FU-DbSLNiQacwpR5zJ4GelZwkMffTgUyywCLIB%2Fw203-h100-k-no-pi-0-ya322.73877-ro0-fo100%2F!7i10904!8i5452!4m5!3m4!1s0x487604b900d26973:0x4291f3172409ea92!8m2!3d51.503324!4d-0.119543
