@@ -1,0 +1,18 @@
+<resources>
+	<string name="app_name">Virtual Trip</string>
+
+	<string name="hello_world">Hello world!</string>
+	<string name="action_settings">Settings</string>
+	<string name="main_scan">Find Crownstone</string>
+	<string name="main_stop_scan">Stop</string>
+	<string name="main_welcome">Scan to add the Crownstones!</string>
+	<string name="main_closest_device">Closest device: %s</string>
+	<string name="main_title">Virtual Trip</string>
+	<string name="title_activity_control">ControlActivity</string>
+	<string name="control_disconnect">Disconnect</string>
+	<string name="control_power_on">Power ON</string>
+	<string name="control_power_off">Power OFF</string>
+	<string name="control_relay_on">Relay ON</string>
+	<string name="control_relay_off">Relay OFF</string>
+	<string name="action_login">Log in</string>
+</resources>
